@@ -40,6 +40,8 @@ If you see message to install particular package(s), please install them using t
     
     $ conda install <package name>
 or
+    
     $ pip install <package name>
+    
 
 
