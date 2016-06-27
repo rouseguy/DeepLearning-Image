@@ -8,7 +8,7 @@
 ## Recommended Installation
 We will be using Python 3.5 version for the exercise. Users should install the Anaconda distribution from Continuum - [https://www.continuum.io/downloads](https://www.continuum.io/downloads).
 
-Please note that installing Anaconda is the **recommended** option for doing the workshop.
+Please note that installing Anaconda is the **recommended** option for the workshop.
 
 ## Post Anaconda Installation
 
@@ -18,10 +18,13 @@ Please install `tensorflow` using the instructions given [here](https://www.tens
 
 Please note that `tensorflow` does not work on Windows. Attendees running Windows will be using `theano`
 
-## Data for the workshop
-Please run the below commands from your command line interface
+## Content for the workshop
+
+All tutorial content can be obtained from this repository either with `git`, or by downloading the repository content as a zip file. If you use git, you can clone this repostory:
 
 ```git clone https://github.com/rouseguy/scipyUS2016_dl-image.git```
+
+or, download and unzip the zipfile.
 
 ## Check installation
 

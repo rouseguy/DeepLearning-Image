@@ -9,9 +9,9 @@ The following topics are covered
 1. What is deep learning?
 2. Motivation: Some use cases 
 3. Building blocks of Neural Networks 
-	a. Neuron
-	b. Activation Function
-	c. Backpropagation Algorithm
+  a. Neuron
+  b. Activation Function
+  c. Backpropagation Algorithm
 4. Introduction to the problem : MNIST dataset
 5. Building neural network from scratch
 6. Introduction to `keras`
