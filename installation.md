@@ -12,12 +12,18 @@ Please note that installing Anaconda is the **recommended** option for the works
 
 ## Post Anaconda Installation
 
+**`keras`**
+
+Please install `keras` using the following command
+
+    $ pip install keras
+
 **`tensorflow`**
 
 Please install `tensorflow` using the instructions given [here](https://www.tensorflow.org/versions/r0.9/get_started/os_setup.html)
 
-Please note that `tensorflow` does not work on Windows. Attendees running Windows will be using `theano`
-
+Please note that `tensorflow` does not work on Windows. Attendees running Windows will be using `theano`. `theano` comes with Anaconda.
+ 
 ## Content for the workshop
 
 All tutorial content can be obtained from this repository either with `git`, or by downloading the repository content as a zip file. If you use git, you can clone this repostory:
