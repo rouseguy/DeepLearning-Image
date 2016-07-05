@@ -22,7 +22,7 @@ Please install `keras` using the following command
 
 Please install `tensorflow` using the instructions given [here](https://www.tensorflow.org/versions/r0.9/get_started/os_setup.html)
 
-Please note that `tensorflow` does not work on Windows. Attendees running Windows will be using `theano`. `theano` comes with Anaconda.
+Please note that installing `tensorflow` on Windows is not straight forward. Attendees running Windows will be using `theano` as the back-end for `keras`. `theano` comes with Anaconda.
  
 ## Content for the workshop
 
