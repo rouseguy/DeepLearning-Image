@@ -25,3 +25,6 @@ Depending on time, the following topics might be covered
 
 Please refer to the [installation](installation.md) instructions document. That document also has instructions on how to run a script to check if the required packages are installed. 
 
+## Slides
+
+The slides used for the workshop are available [here](https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing)
